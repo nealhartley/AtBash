@@ -1,3 +1,5 @@
+package AtBashCode;
+
 public class AtBash {
 
     private String constant;
@@ -8,7 +10,7 @@ public class AtBash {
         this.cipher = cipher;
     }
 
-    //the method you run from the AtBash object to decode your string
+    //the method you run from the AtBashCode.AtBash object to decode your string
     public String decode(String encryptedText){
 
         String toReturn = "";
