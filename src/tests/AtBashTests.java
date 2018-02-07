@@ -39,6 +39,6 @@ public class AtBashTests {
         assertTrue(basher.decode("skd qj qucbjvq?").equals("why so serious?"));
 
     }
-    
+
 
 }
